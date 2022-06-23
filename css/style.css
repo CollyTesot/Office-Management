@@ -138,3 +138,29 @@
 .myChart{
     height: 30vh;
 }
+
+
+
+.topHead{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.mainSetting{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+}
+
+
+.sett1{
+    width: 50%;
+    height: 100%;
+}
+
+.sett2{
+    width: 50%;
+    height: 100%;
+}
