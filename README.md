@@ -1,3 +1,3 @@
 # Office
 
-Basic Management using Firebase &amp; Vanilla Js
+Basic Management using Firebase &amp Vanilla Js
